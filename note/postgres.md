@@ -1,5 +1,7 @@
 # POSTGRESQL
-- RDBMS + OODBMS = ORDBMS 
+- RDBMS + OODBMS = ORDBMS: 
+    - ORDBMS là viết tắt của Object-Relational Database Management System. Một loại hệ thống quản lý cơ sở dữ liệu kết hợp các tính năng của cả mô hình cơ sở dữ liệu quan hệ và hướng đối tượng.
+    - Postgres là 1 ORDBMS.
 - Domains: 
     - lệnh: 
     ```sql
